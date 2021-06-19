@@ -1,25 +1,26 @@
 # city-explorer-api
 Server initialization
 
-Project Name: Custom Servers with Node and Express
+# Project Name city-explorer
 
-Overview
-a website that the user can enter information about city he or she want and their latitude and longitude.
+**Author**: Abdullah Alabbadi
 
-Getting Started
-by having the link
+**Version**: 3.0.0
+## Overview
+_a website that the user can enter information about city he or she want and their latitude and longitude. and the moves fo all city_
+## Getting Started
+_by having the link_
 
-Architecture
-GitHub,Netlify,React bootstrap and Terminal also, locationQ.
+## Architecture
+GitHub,Netlify,React bootstrap and Terminal also, locationQ, herouk .
 
-Change Log
-my web was deployed in Netlify and it's online in this URl
+## Change Log
+my web was deployed in Netlify and herouk and it's online now.
 
-
-Credit and Collaborations
+## Credit and Collaborations
 ibrahim alhamshari,latifa ghasaan
 
-Name of feature: Get location
+Name of feature: Get location, Movies.
 
 Estimate of time needed to complete: 4 hours.
 
